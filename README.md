@@ -14,8 +14,7 @@ Welcome to **Miss Minutes**, a beautifully designed digital clock that displays 
 ---
 
 ## Preview 🌟
-
-![Miss Minutes Preview]([https://via.placeholder.com/800x400?text=Miss+Minutes+Clock+Preview](https://i-akb25.github.io/Miss_Minutes/))
+([https://via.placeholder.com/800x400?text=Miss+Minutes+Clock+Preview](https://i-akb25.github.io/Miss_Minutes/))
 
 ---
 
